@@ -151,10 +151,10 @@ style="margin-bottom: -5px;"/> !</h1>
 <img align="center" alt="DEV" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/> 
 </p>
                                                                                                                                          
- <p align="center">                                                                                                                                         
-<!--img src="https://wakatime.com/share/@coutinhozx/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/-->
-</p>
-                                                                                           
+                                                                                                                                         
+<img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
+
+                                                                                          
 </div>
     
   
