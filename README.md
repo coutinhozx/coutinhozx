@@ -21,7 +21,7 @@ style="margin-bottom: -5px;"/> !</h1>
 <!--Final do Header-->
 
 <!--Descrição de quem sou - Who Am I Description-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Study+Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Carlos+Coutinho;I'm+from+Brazil;I'm+Computer+Technician;Study+System+Analisys;Study+Database;and+Programming+C+(Embebbed+-+System);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
 <!--Final da Descrição-->
 
 <!--Faixa de Arco-Íris-->
@@ -37,18 +37,18 @@ style="margin-bottom: -5px;"/> !</h1>
  
  <tbody>
   <tr>
-    <th>🏆 About Me</th>
-    <td>🛠 Technical Abilitess</td>
-    <td>💻 Front-End (Studying)</td>
-    <td>🖥 Back-End (Studying)</td>
+    <th> <strong>🏆 About Me</th> </strong>
+    <td> <strong>🛠 Technical Abilitess</td> </strong>
+    <td> <strong>💻 Front-End (Studying)</td> </strong>
+    <td> <strong>🖥 Specialization (Studying)</td> </strong>
   </tr>
    
    
 <tr>  
   <td> Graduating in System Analisys and Development</td>
   <td> Computer Technician (Hardware)</td>
-  <td> HTML%</td> 
-  <td> Java</td>
+  <td> HTML5</td> 
+  <td> Computer Security</td>
 </tr>
     
  <tr>   
@@ -88,14 +88,14 @@ style="margin-bottom: -5px;"/> !</h1>
   <tr> 
     <td> Wordpress</td>
     <td> Websites Creation</td>
-    <td> </td>
+    <td> Arch. Client-Server</td>
     <td> English (intermediary)</>
   </tr>
   
   <tr>
     <td> Bootstrap</td>
     <td> Web Services</td>
-    <td> </td>
+    <td> Operatioal System</td>
     <td> Spanish (intermediary)</td>
   </tr>
   </table>
@@ -118,7 +118,7 @@ style="margin-bottom: -5px;"/> !</h1>
    
    <!--Git Hub Stats --> 
 ## Github Stats  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maxnegrao33&repo=github-readme-stats)](https://github.com/coutinhozx/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coutinhozx&repo=github-readme-stats)](https://github.com/coutinhozx/github-readme-stats)
  
  <!--Projetos e Contribuições-->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=coutinhozx&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
@@ -140,15 +140,21 @@ style="margin-bottom: -5px;"/> !</h1>
   </p>
 <!--Final da Faixa Animada-->  
    
- <!--Imagens Troféus-->  
- <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  
-
+ <!--Imagens Troféus--> 
+  <p align="center">
+ <img "src="https://github-profile-trophy.vercel.app/?username=coutinhozx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ </p>
+ 
+ <p align="center">                                                                                                                                          
+<img align="center" alt="DEV" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/> 
+</p>
+                                                                                                                                         
+ <p align="center">                                                                                                                                         
 <img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
-   
+</p>
+                                                                                           
 </div>
-   
-  
+    
   
 <!--Redes Sociais - Socials Networks-->
 
@@ -216,8 +222,7 @@ style="margin-bottom: -5px;"/> !</h1>
 }
 ```
  
-  <h1 align="center"> Developer </h1>
-<img align="center" alt="DEV" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/> 
+ 
 
   
   
