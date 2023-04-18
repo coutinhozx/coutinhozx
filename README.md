@@ -136,8 +136,8 @@ style="margin-bottom: -5px;"/> !</h1>
  <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
  
  <!--Imagens Troféus--> 
-  <p align="center">
- <img "src="https://github-profile-trophy.vercel.app/?username=coutinhozx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  
+ <p align= "center" img "src="https://github-profile-trophy.vercel.app/?username=coutinhozx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
  </p>
  
  <!--Faixa de Arco-Íris-->
@@ -152,12 +152,10 @@ style="margin-bottom: -5px;"/> !</h1>
 </p>
                                                                                                                                          
                                                                                                                                          
-<img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
-
-                                                                                          
+<!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/-->
+                                                                                         
 </div>
-    
-  
+   
 <!--Redes Sociais - Socials Networks-->
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
