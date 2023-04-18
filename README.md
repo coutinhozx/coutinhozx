@@ -150,7 +150,7 @@ style="margin-bottom: -5px;"/> !</h1>
 </p>
                                                                                                                                          
  <p align="center">                                                                                                                                         
-<img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
+<img src="https://wakatime.com/share/@coutinhozx/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
 </p>
                                                                                            
 </div>
@@ -183,7 +183,7 @@ style="margin-bottom: -5px;"/> !</h1>
  
  <!--Gráfico Contribuições de Código - Graphic Code Constribuitions-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxnegrao33&bg_color=1e1a1c&color=ffffff&line=23297b&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=coutinhozx&bg_color=1e1a1c&color=ffffff&line=23297b&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--End Code Contribuition-->
  
  
