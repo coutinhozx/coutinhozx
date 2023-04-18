@@ -117,6 +117,7 @@ style="margin-bottom: -5px;"/> !</h1>
 <br>
    
    <!--Git Hub Stats --> 
+   <!--Arrumar depois>
 ## Github Stats  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coutinhozx&repo=github-readme-stats)](https://github.com/coutinhozx/github-readme-stats)
  
@@ -134,23 +135,24 @@ style="margin-bottom: -5px;"/> !</h1>
  <!--Gif Digitando-->  
  <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
  
+ <!--Imagens Troféus--> 
+  <p align="center">
+ <img "src="https://github-profile-trophy.vercel.app/?username=coutinhozx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ </p>
+ 
  <!--Faixa de Arco-Íris-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada-->  
-   
- <!--Imagens Troféus--> 
-  <p align="center">
- <img "src="https://github-profile-trophy.vercel.app/?username=coutinhozx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
- </p>
+   <br><br>
  
  <p align="center">                                                                                                                                          
 <img align="center" alt="DEV" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/> 
 </p>
                                                                                                                                          
  <p align="center">                                                                                                                                         
-<img src="https://wakatime.com/share/@coutinhozx/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
+<!--img src="https://wakatime.com/share/@coutinhozx/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/-->
 </p>
                                                                                            
 </div>
@@ -158,8 +160,7 @@ style="margin-bottom: -5px;"/> !</h1>
   
 <!--Redes Sociais - Socials Networks-->
 
- 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
  
  <div> 
   <!--YouTube-->
@@ -174,6 +175,50 @@ style="margin-bottom: -5px;"/> !</h1>
  <!--a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" align="center"></a>-->
 <hr>
  <!--End Socials Networks--> 
+  
+  
+  <!--Knowledge of Technologies--> 
+<div style="display: inline_block"><br>
+ 
+ <hr>
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)
+ 
+ <table border = "5">
+  <td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
+  <td align="center"><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td>
+  <td align="center"><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td>
+  <td align="center"><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">Java</td>
+  <td align="center"><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">Data Relational</td>
+  <td align="center"><img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">VS Code</td>
+  <td align="center"><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">Wordpress</td>
+  <td align="center"><img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</td>
+ </table>
+
+</div>
+<!--Final Knowledge-->
+
+ 
+<!--Projetos de Estudos Futuros - Future Studies Projects-->  
+<div style="display: inline_block"><br>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Projects+!!!)](https://git.io/typing-svg)
+ 
+ <!--Início da tabela e espessura da borda-->
+ <!--Inicial table and width border-->
+ <table border = "5">
+  <td align="center"><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
+  <td align="center"><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td>
+  <td align="center"><img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</td>
+  <td align="center"><img align="center" alt="Max-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">Angular</td> 
+  <td align="center"> <img align="center" alt="Max-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node</td>
+  <td align="center"> <img align="center" alt="Max-Tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">Tailwind</td>    
+  <td align="center"> <img align="center" alt="Max-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">Dart</td>          
+  <td align="center"><img align="center" alt="Max-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">Spring Ecosystem</td>              
+  <td align="center"><img align="center" alt="Max-Flut" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">Flutter</td>                
+  </table>   
+ <!--Final da Tabela - End table--> 
+  
   
 <!--Faixa de Arco-Íris-->
  <p align="center">
@@ -234,7 +279,9 @@ style="margin-bottom: -5px;"/> !</h1>
 style="margin-bottom: -5px;"/> !</h1> -->
   <br><br>
                             
-<a href="http://s01.flagcounter.com/more/X70"><img src="<a href="https://info.flagcounter.com/DN09"><img src="https://s11.flagcounter.com/count2/DN09/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="http://s01.flagcounter.com/more/X70">
+<a href="https://info.flagcounter.com/DN09">
+<img src= "https://s11.flagcounter.com/count2/DN09/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
   
  
