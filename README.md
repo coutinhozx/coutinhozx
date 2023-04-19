@@ -100,12 +100,6 @@ style="margin-bottom: -5px;"/> !</h1>
   </tr>
   </table>
   <!--Fim da Tabela Menor--> 
- 
- <!--Faixa de Arco-Íris-->
- <p align="center">
-  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
-  </p>
-<!--Final da Faixa Animada-->  
 
  <br>
  
@@ -122,8 +116,9 @@ style="margin-bottom: -5px;"/> !</h1>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coutinhozx&repo=github-readme-stats)](https://github.com/coutinhozx/github-readme-stats)
  
  <!--Projetos e Contribuições-->
+ <p align="center">
  [![GitHub Streak](https://streak-stats.demolab.com/?user=coutinhozx&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
- 
+ </p>
 
 
 <!--Faixa de Arco-Íris-->
@@ -133,11 +128,15 @@ style="margin-bottom: -5px;"/> !</h1>
 <!--Final da Faixa Animada-->  
    
  <!--Gif Digitando-->  
- <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+ <img align="center" alt="GIF" height="230" width="450"
+ src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+ <img align="center" alt="DEV" height="230" width="340" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>
+ 
  
  <!--Imagens Troféus--> 
-  
- <p align= "center" img "src="https://github-profile-trophy.vercel.app/?username=coutinhozx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <p align= "right" img "src="https://github-profile-trophy.vercel.app/?username=coutinhozx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+                                                                                                                                           
+ 
  </p>
  
  <!--Faixa de Arco-Íris-->
@@ -147,9 +146,7 @@ style="margin-bottom: -5px;"/> !</h1>
 <!--Final da Faixa Animada-->  
    <br><br>
  
- <p align="center">                                                                                                                                          
-<img align="center" alt="DEV" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/> 
-</p>
+ 
                                                                                                                                          
                                                                                                                                          
 <!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/-->
@@ -180,14 +177,15 @@ style="margin-bottom: -5px;"/> !</h1>
  
  <hr>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Studying+this+Tecnologies+!!!)](https://git.io/typing-svg)
  
  <table border = "5">
-  <td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
+ <td align="center"><img align="center" alt="Max-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />C</td>
+ <td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
   <td align="center"><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td>
-  <td align="center"><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td>
-  <td align="center"><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">Java</td>
-  <td align="center"><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">Data Relational</td>
+  <td align="center"><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td>        
+  <!--td align="center"><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">Java</td-->
+  <!--td align="center"><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">Data Relational</td-->
   <td align="center"><img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">VS Code</td>
   <td align="center"><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">Wordpress</td>
   <td align="center"><img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</td>
@@ -199,12 +197,11 @@ style="margin-bottom: -5px;"/> !</h1>
  
 <!--Projetos de Estudos Futuros - Future Studies Projects-->  
 <div style="display: inline_block"><br>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Projects+!!!)](https://git.io/typing-svg)
+
  
  <!--Início da tabela e espessura da borda-->
  <!--Inicial table and width border-->
- <table border = "5">
+ <!--table border = "5">
   <td align="center"><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
   <td align="center"><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td>
   <td align="center"><img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</td>
@@ -214,7 +211,7 @@ style="margin-bottom: -5px;"/> !</h1>
   <td align="center"> <img align="center" alt="Max-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">Dart</td>          
   <td align="center"><img align="center" alt="Max-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">Spring Ecosystem</td>              
   <td align="center"><img align="center" alt="Max-Flut" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">Flutter</td>                
-  </table>   
+  </table-->   
  <!--Final da Tabela - End table--> 
   
   
