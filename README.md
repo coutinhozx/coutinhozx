@@ -110,15 +110,12 @@ style="margin-bottom: -5px;"/> !</h1>
 <!--Final da Faixa Animada-->  
 <br>
    
-   <!--Git Hub Stats --> 
-   <!--Arrumar depois>
+    
 ## Github Stats  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coutinhozx&repo=github-readme-stats)](https://github.com/coutinhozx/github-readme-stats)
  
- <!--Projetos e Contribuições-->
- <p align="center">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=coutinhozx&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
- </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=coutinhozx&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
+ 
 
 
 <!--Faixa de Arco-Íris-->
