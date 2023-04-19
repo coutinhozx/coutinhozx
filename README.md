@@ -1,4 +1,4 @@
-### Carlos Eduardo Coutinho 👋
+### Carlos Eduardo Coutinho Soares👋
 
 <!--
 **coutinhozx/coutinhozx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
