@@ -117,7 +117,6 @@ style="margin-bottom: -5px;"/> !</h1>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=coutinhozx&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
  
 
-
 <!--Faixa de Arco-Íris-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
@@ -132,22 +131,16 @@ style="margin-bottom: -5px;"/> !</h1>
  
  <!--Imagens Troféus--> 
   <p align= "right" img "src="https://github-profile-trophy.vercel.app/?username=coutinhozx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-                                                                                                                                           
- 
- </p>
+  </p>                                                                                                                                        
  
  <!--Faixa de Arco-Íris-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
-  </p>
+ </p>
 <!--Final da Faixa Animada-->  
-   <br><br>
- 
- 
+   <br><br>                                                                                                                                
                                                                                                                                          
-                                                                                                                                         
-<!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/-->
-                                                                                         
+<!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/-->                                                                    
 </div>
    
 <!--Redes Sociais - Socials Networks-->
@@ -171,7 +164,6 @@ style="margin-bottom: -5px;"/> !</h1>
   
   <!--Knowledge of Technologies--> 
 <div style="display: inline_block"><br>
- 
  <hr>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Studying+this+Tecnologies+!!!)](https://git.io/typing-svg)
@@ -187,7 +179,6 @@ style="margin-bottom: -5px;"/> !</h1>
   <td align="center"><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">Wordpress</td>
   <td align="center"><img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</td>
  </table>
-
 </div>
 <!--Final Knowledge-->
 
@@ -196,6 +187,7 @@ style="margin-bottom: -5px;"/> !</h1>
 <div style="display: inline_block"><br>
 
  
+<!--Estão todos comentados-->
  <!--Início da tabela e espessura da borda-->
  <!--Inicial table and width border-->
  <!--table border = "5">
@@ -210,7 +202,7 @@ style="margin-bottom: -5px;"/> !</h1>
   <td align="center"><img align="center" alt="Max-Flut" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">Flutter</td>                
   </table-->   
  <!--Final da Tabela - End table--> 
-  
+  <!--Final do comentário-->
   
 <!--Faixa de Arco-Íris-->
  <p align="center">
